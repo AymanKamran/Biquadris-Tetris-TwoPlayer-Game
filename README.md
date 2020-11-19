@@ -22,6 +22,20 @@ A GameKeeper Controller class (for control-flow mediation) propagates user-input
 **The formative & summative software design documents can be accessed from the Software Design directory. Snippets of them are also below**
 
 # Formative Software Design
-![asset1](SoftwareDesign/BlurredScreenShots/formative_blurred/1.png)
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/1.png)
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/2.png)
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/3.png)
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/4.png)
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/5.png)
 
-### Summative Software Design
+# Summative Software Design
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/1.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/2.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/3.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/4.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/5.png)
+![](SoftwareDesign/BlurredScreenShots/formative_blurred/6.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/7.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/8.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/9.png)
+![](SoftwareDesign/BlurredScreenShots/summative_blurred/10.png)
