@@ -18,3 +18,5 @@ A GameKeeper Controller class (for control-flow mediation) propagates user-input
 * extensibility, 
 * robustness, 
 * and code flow.
+
+**The formative & summative software design documents can be accessed from the "Formative Software Design (5pg).pdf" and "Summative Software Design (10pg).pdf" files. Snippets of them are also below**
