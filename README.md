@@ -1,4 +1,4 @@
-# Code Available Upon Request
+# Tetris Code Available Upon Request
 ** **While the code is available upon request, I have supplied the formative and summative software design work documents in this repository** **
 
 Biquadris & Tetris are one of the most popular games in the world. Here, I have built biquadris/tetris in C++ to put into practice the centerpiece principles of the Object-Oriented Paradigm. 
