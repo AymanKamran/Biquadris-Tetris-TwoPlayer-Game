@@ -1,6 +1,16 @@
 # Tetris Code Available Upon Request
-** **While the code is available upon request, I have supplied the formative and summative software design work documents in this repository** **
+** **Code is not available publically. However, it is available on request by emailing me. In the mean time, I have supplied Visual GIFS, and the formative and summative software design work documents in this repository** **
 
+# Sneak Peak into the Game Below:
+<img src="https://im4.ezgif.com/tmp/ezgif-4-358368545285.gif" width="250" height="400" />
+
+
+# Block Movements: Down, Left, Right, Rotate Clockwise
+<img src="https://im4.ezgif.com/tmp/ezgif-4-358368545285.gif" width="250" height="400" />
+
+
+
+# What is Biquadris / Tetris
 Biquadris & Tetris are one of the most popular games in the world. Here, I have built biquadris/tetris in C++ to put into practice the centerpiece principles of the Object-Oriented Paradigm. 
 
 This project was submitted as my group final project in my third semester at the University of Waterloo.
@@ -19,12 +29,6 @@ A GameKeeper Controller class (for control-flow mediation) propagates user-input
 * robustness, 
 * and code flow.
 
-# Sneak Peak into the Game Below:
-<img src="https://im4.ezgif.com/tmp/ezgif-4-358368545285.gif" width="250" height="400" />
-
-
-# Block Movements: Down, Left, Right, Rotate Clockwise
-![](SoftwareDesign/BlurredScreenShots/GIFS/rotate.gif)
 
 **The formative & summative software design documents can be accessed from the Software Design directory. Snippets of them are also below**
 
