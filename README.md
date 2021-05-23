@@ -20,7 +20,7 @@ A GameKeeper Controller class (for control-flow mediation) propagates user-input
 * and code flow.
 
 # Sneak Peak into the Game Below:
-![](SoftwareDesign/BlurredScreenShots/GIFS/regular.gif)
+<img src="https://im4.ezgif.com/tmp/ezgif-4-358368545285.gif" width="250" height="400" />
 
 
 # Block Movements: Down, Left, Right, Rotate Clockwise
