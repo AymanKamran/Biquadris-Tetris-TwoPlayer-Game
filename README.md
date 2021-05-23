@@ -2,11 +2,11 @@
 ** **Code is not available publically. However, it is available on request by emailing me. In the mean time, I have supplied Visual GIFS, and the formative and summative software design work documents in this repository** **
 
 # Sneak Peak into the Game Below:
-<img src="https://im4.ezgif.com/tmp/ezgif-4-358368545285.gif" width="250" height="400" />
+<img src="https://github.com/AymanKamran/Biquadris-Tetris-TwoPlayer-Game/blob/main/SoftwareDesign/BlurredPDFs/GIFS/2.gif" width="250" height="400" />
 
 
 # Block Movements: Down, Left, Right, Rotate Clockwise
-<img src="https://im4.ezgif.com/tmp/ezgif-4-358368545285.gif" width="250" height="400" />
+<img src="https://github.com/AymanKamran/Biquadris-Tetris-TwoPlayer-Game/blob/main/SoftwareDesign/BlurredPDFs/GIFS/1.gif" width="250" height="400" />
 
 
 
